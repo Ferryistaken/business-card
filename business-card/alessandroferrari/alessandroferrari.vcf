@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ferrari;Alessandro;;;
+FN:Alessandro Ferrari
+ORG:Georgia Institute of Technology
+ADR;TYPE=WORK:800 Fowler St NW,
+Atlanta, GA, 30313
+TITLE:
+TEL;TYPE=CELL:+16468215621
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:alessandroferrari@gatech.edu
+URL;TYPE=Digital Business Card:https://contact.alessandroferrari.live
+URL:https://alessandroferrari.live
+URL;TYPE=Website:https://alessandroferrari.live
+URL;TYPE=Matrix:https://matrix.to/#/@ferry:envs.net
+URL;TYPE=GitHub:https://github.com/Ferryistaken
+URL;TYPE=LinkedIn:https://linkedin.com/alessandroferrari04
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100553883
+END:VCARD
